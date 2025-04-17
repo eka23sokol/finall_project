@@ -37,6 +37,6 @@
 
 
 ### Выводы:  
-Выводы по кажому этапу работы приведены в файле Дипломный_проект_Сокольская_ЕГ.ipynb (https://github.com/eka23sokol/project_6_ds/blob/main/PROJECT_6__%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%95_%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0.ipynb)
+Выводы по кажому этапу работы приведены в файле Дипломный_проект_Сокольская_ЕГ.ipynb (https://github.com/eka23sokol/finall_project/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82_%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%95%D0%93.ipynb)
 
 :arrow_up: [к оглавлению](https://github.com/eka23sokol/finall_project/tree/main/README.md#Оглавление)
